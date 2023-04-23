@@ -13,4 +13,4 @@ Compartir y descubrir proyectos de código abierto
 🤔 Necesito ayuda con aprendiaje automatico y redes neurales.
 💬 Pregúntame sobre física y matemáticas.
 📫 Cómo contactarme por medio de correo electronico o los telefonos guardados en Linkedin
-😄 Pronombres Alejo.
+😄 Pronombres Alejo
